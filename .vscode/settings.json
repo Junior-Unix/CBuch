@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "CONTSPC.C": "cpp",
+        "CONVERGE.C": "cpp",
+        "DVBREAK.C": "cpp",
+        "NUMAGIC1.C": "cpp",
+        "NUMAGIC2.C": "cpp",
+        "NUMAGIC3.C": "cpp",
+        "NUMAGIC4.C": "cpp",
+        "NUMAGIC5.C": "cpp",
+        "OPRCOND1.C": "cpp",
+        "OPRCOND2.C": "cpp",
+        "OPRCOND3.C": "cpp",
+        "REPFOR.C": "cpp",
+        "REPFOR2.C": "cpp",
+        "REPWHILE.C": "cpp",
+        "ECOTEXTO.C": "cpp"
+    }
+}
